@@ -2,7 +2,9 @@
 <h2 align="center">Hi 👋! I am Mohamed Ramadan Elaraby , I Am an software engineer student</h2>
 
 ###
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elaraby218&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 ###
